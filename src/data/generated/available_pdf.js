@@ -1,0 +1,1 @@
+const availablePdf = ["Hadjiaros2023Virtual","Hafeez2021EEGua","Hufnal2021Impact","Kerous2018EEGpr","Kohli2022review","Krokos2022Qauantifying","Liao2012Gaming","Luu2017EEGwa","Pratiher2023Classification","Wen2020Combining"];
